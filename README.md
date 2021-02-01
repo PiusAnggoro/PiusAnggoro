@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**PiusAnggoro/PiusAnggoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm PiusAnggoro, 
+this is the place where I opensource stuff and put materials courses.
 
-Here are some ideas to get you started:
+🔭 I am a lecturer in:
+- Mobile Programming, 
+- Game Development, 
+- Computer Graphics, and 
+- Computer-Human Interaction. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I am undertaking research in:
+- AR,VR,XR, 
+- Natural Interaction System, and
+- Immersive Game Design.
+
+🌱 I’m currently learning HandPoseDetection, and Positional Tracking
+📫 How to reach me: @piusanggoro or 
+  [PiusAnggoro](mailto:piusanggoro@gmail.com?subject=[GitHub]%20Source)
+⚡ Fun fact: I ❤️ LEGO's
