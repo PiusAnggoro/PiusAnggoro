@@ -15,6 +15,5 @@ this is the place where I opensource stuff and put materials courses.
 - Immersive Game Design.
 
 🌱 I’m currently learning HandPoseDetection, and Positional Tracking
-📫 How to reach me: @piusanggoro or 
-  [PiusAnggoro](mailto:piusanggoro@gmail.com?subject=[GitHub]%20Source)
+📫 How to reach me: @piusanggoro or [PiusAnggoro](mailto:piusanggoro@gmail.com?subject=[GitHub]%20Source)
 ⚡ Fun fact: I ❤️ LEGO's
